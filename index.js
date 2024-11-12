@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managed by Cezen"];
+const statusMessages = ["Managed by Zen"];
 
 
 let currentIndex = 0;
