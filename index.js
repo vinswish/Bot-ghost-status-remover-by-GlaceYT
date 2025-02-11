@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managed by Zen"];
+const statusMessages = ["Playing Reek Studios Support"];
 
 
 let currentIndex = 0;
